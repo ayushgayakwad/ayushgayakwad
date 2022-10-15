@@ -1,7 +1,7 @@
 ![Ayush Gayakwad](https://user-images.githubusercontent.com/94968916/167086400-ec66a44a-d2a6-4f11-adf8-be36c370a19f.png)
 
 ## Hey!
-I'm Ayush Gayakwad. I'm 18 year old student pursuing graduation in CSE - AI/ML.
+I'm Ayush Gayakwad. I'm 18 year old student pursuing graduation in Artificial Intelligence & Machine Learning.
 
 <img src="https://gpvc.arturio.dev/ayushgayakwad" alt="Profile views"/>
 
