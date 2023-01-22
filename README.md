@@ -18,8 +18,3 @@ I'm Ayush Gayakwad. I'm 18 year old student pursuing graduation in Artificial In
 </div>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
-## Contribution Graph :
-
- <img src="https://activity-graph.herokuapp.com/graph?username=ayushgayakwad&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" alt="Ayush Gayakwad"></div>
- 
