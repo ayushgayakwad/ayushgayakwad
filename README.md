@@ -6,7 +6,7 @@ I'm Ayush Gayakwad. I'm 18 year old student pursuing graduation in Artificial In
 <img src="https://gpvc.arturio.dev/ayushgayakwad" alt="Profile views"/>
 
 ## Languages :
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000B1D.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000B1D.svg?style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 
 ## Tools, Technologies & IDEs :
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-000B1D.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/Python%20IDLE-%23DC322F?style=for-the-badge&logo=python&logoColor=ffdd54) 
