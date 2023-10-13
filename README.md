@@ -1,7 +1,7 @@
 ![Ayush Gayakwad](https://user-images.githubusercontent.com/94968916/167086400-ec66a44a-d2a6-4f11-adf8-be36c370a19f.png)
 
 # Hey there!👋
-I'm Ayush Gayakwad. I'm 19 year old student pursuing graduation in Artificial Intelligence & Machine Learning.
+I'm Ayush Gayakwad. I'm a 19 year old student pursuing graduation in Artificial Intelligence & Machine Learning.
 
 <img src="https://komarev.com/ghpvc/?username=ayushgayakwad" alt="Profile views"/>
 
