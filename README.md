@@ -45,6 +45,6 @@ I'm Ayush Gayakwad, a 20-year-old student currently pursuing graduation in Artif
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://snapchat.com/add/iayushgayakwad">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat Badge"/>
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat Badge"/>
   </a>
 </div>
