@@ -47,4 +47,8 @@ I'm Ayush Gayakwad, a 20-year-old student currently pursuing graduation in Artif
   <a href="https://snapchat.com/add/iayushgayakwad">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat Badge"/>
   </a>
+
+<a href="https://t.me/iayushgayakwad">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
