@@ -16,7 +16,7 @@ I'm Ayush Gayakwad, a 20-year-old student currently pursuing graduation in Artif
 ## 🔥 Contribution Stats :
 
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgayakwad&theme=dark" alt="Ayush Gayakwad" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=ayushgayakwad&theme=dark" alt="Ayush Gayakwad" /></p>
 </div>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
