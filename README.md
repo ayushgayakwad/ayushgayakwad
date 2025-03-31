@@ -29,14 +29,17 @@ I'm Ayush Gayakwad, a 20-year-old student currently pursuing graduation in Artif
   <a href="https://linkedin.com/in/ayushgayakwad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/30123316/ayush-gayakwad">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
    <a href="https://instagram.com/iayushgayakwad">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://facebook.com/profile.php?id=100087926419983">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://twitter.com/iayushgayakwad">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/iayushgayakwad">
+    <img src="https://img.shields.io/badge/X%20%28Formerly%20Twitter%29-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://reddit.com/user/ayushgayakwad">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
