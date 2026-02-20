@@ -1,7 +1,9 @@
-![Ayush Gayakwad](https://user-images.githubusercontent.com/94968916/167086400-ec66a44a-d2a6-4f11-adf8-be36c370a19f.png)
+![Ayush Shreyas Gayakwad](https://user-images.githubusercontent.com/94968916/167086400-ec66a44a-d2a6-4f11-adf8-be36c370a19f.png)
 
 # Hey there! 👋
-I'm Ayush Gayakwad, a 21-year-old student currently pursuing graduation in Artificial Intelligence and Machine Learning. I am passionate about leveraging technology to solve complex problems and enhance user experiences.
+I'm Ayush Shreyas Gayakwad. I am an Applied AI Engineer with hands-on experience in machine learning and deep learning, building intelligent systems that integrate AI models with web and mobile applications. My work spans designing, training, and deploying AI models, developing backend systems, and creating full-stack solutions to solve real-world problems.
+
+I am focused on building production-ready intelligent systems and continuously expanding my expertise in ML, deep learning, and scalable AI solutions. I am open to collaborations and opportunities that allow me to translate AI research into practical applications.
 
 <img src="https://komarev.com/ghpvc/?username=ayushgayakwad" alt="Profile views"/>
 
