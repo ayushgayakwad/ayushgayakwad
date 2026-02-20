@@ -7,7 +7,7 @@ I am focused on building production-ready intelligent systems and continuously e
 
 <img src="https://komarev.com/ghpvc/?username=ayushgayakwad" alt="Profile views"/>
 
-## AI & Machine Learning
+## 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-7A1FA2?style=for-the-badge)
@@ -15,7 +15,7 @@ I am focused on building production-ready intelligent systems and continuously e
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-512DA8?style=for-the-badge)
 ![LLM Integration (APIs)](https://img.shields.io/badge/LLM_Integration_(APIs)-3949AB?style=for-the-badge)
 
-## Programming Languages
+## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +25,7 @@ I am focused on building production-ready intelligent systems and continuously e
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Web & Full-Stack Development
+## 🌐 Web & Full-Stack Development
 ![React.js](https://img.shields.io/badge/React.js-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,14 +35,14 @@ I am focused on building production-ready intelligent systems and continuously e
 ![REST APIs](https://img.shields.io/badge/REST_APIs-455A64?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 
-## Cloud & Analytics
+## 📡 Cloud & Analytics
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-F9AB00?style=for-the-badge)
 ![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge)
 ![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge)
 
-## Development Tools & IDEs
+## 🛠 Development Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-DC322F?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
